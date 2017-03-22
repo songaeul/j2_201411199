@@ -1,0 +1,28 @@
+package headfirst.strategy;//자바 가 들어있는 경로
+
+public abstract class Duck{
+  FlyBehavior f;//카드
+  QuackBehavior q;
+  
+  public Duck(){
+  }
+  public void setFlyBehavior(FlyBehavior f){//flybehavior 신한카드
+    f = this.f; //f = 카드를 신한카드로 바꿔줬다. 결국 f는 신한카드다.
+}
+  public void setQuackBehavior(QuackBehavior q){
+    q = this.q
+  }
+  
+  abstract void display();
+  public void performFly(){
+    f.fly();
+  }
+  public void performQuack(){
+    q.quack();
+  }
+  public void swim(){
+  System.out.println("All ducks float, even decoys!")
+  }
+}
+
+//인터페이스 잡는 것 까진 다음시간에(03/22)
