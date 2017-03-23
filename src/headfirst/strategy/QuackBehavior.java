@@ -1,5 +1,5 @@
-//package headfirst.strategy;
+package headfirst.strategy;
 
-//public interface QuackBehavior {
-// public void quack();
-//}
+public interface QuackBehavior {
+ public void quack();
+}

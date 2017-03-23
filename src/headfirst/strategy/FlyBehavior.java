@@ -1,5 +1,5 @@
 package headfirst.strategy;
 
-public interface FlyBehavior {//SUPERCLASS//->¿ªÇÒ : MARKER
+public interface FlyBehavior {
  public void fly();
 }
