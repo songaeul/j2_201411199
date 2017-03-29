@@ -1,3 +1,0 @@
-package com.sd.gui;
-
-public CalcAreaListenger implements ActionListener
