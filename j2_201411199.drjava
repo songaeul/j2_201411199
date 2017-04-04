@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="j2_201411199/classes/" main="j2_201411199.classes.com.sd.sort.v2.SorterMainV2.class" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="j2_201411199/src/com/sd/sort/v2/SorterMainV2.java" package="com.sd.sort.v2" timestamp="31-Mar-2017 18:29:45">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/com/sd/turtle/WeightTurtle.java" package="com.sd.turtle" timestamp="15-Mar-2017 14:47:51">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/com/sd/gui/CalcAreaListener.java" package="com.sd.gui" timestamp="29-Mar-2017 13:50:07">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/headfirst/strategy/MallardDuck.java" package="headfirst.strategy" timestamp="23-Mar-2017 15:41:45">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/com/sd/turtle/WeightTurtleMain.java" package="com.sd.turtle" timestamp="15-Mar-2017 14:28:20">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/headfirst/strategy/FlyRocketPowered.java" package="headfirst.strategy" timestamp="21-Mar-2017 15:44:56">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/headfirst/strategy/FlyNoWay.java" package="headfirst.strategy" timestamp="21-Mar-2017 16:04:57">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/headfirst/strategy/FlyBehavior.java" package="headfirst.strategy" timestamp="23-Mar-2017 15:41:00">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/headfirst/strategy/FlyWithWings.java" package="headfirst.strategy" timestamp="23-Mar-2017 15:41:00">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/headfirst/strategy/Quack.java" package="headfirst.strategy" timestamp="23-Mar-2017 15:41:00">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/headfirst/strategy/QuackBehavior.java" package="headfirst.strategy" timestamp="23-Mar-2017 15:41:00">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/headfirst/strategy/ModelDuck.java" package="headfirst.strategy" timestamp="23-Mar-2017 15:41:00">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/headfirst/strategy/Duck.java" package="headfirst.strategy" timestamp="23-Mar-2017 15:41:00">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/headfirst/strategy/MiniDuckSimulator1.java" package="headfirst.strategy" timestamp="23-Mar-2017 15:41:00">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/com/sd/sort/v1/Weight.java" package="com.sd.sort.v1" timestamp="28-Mar-2017 13:40:52">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/com/sd/gui/CalcAreaGUIMain.java" package="com.sd.gui" timestamp="28-Mar-2017 15:32:21">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/com/sd/sort/v2/Sorter.java" package="com.sd.sort.v2" timestamp="31-Mar-2017 18:22:15">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/com/sd/sort/v2/Comparator.java" package="com.sd.sort.v2" timestamp="31-Mar-2017 18:24:37">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/com/sd/sort/v2/IntegerComparator.java" package="com.sd.sort.v2" timestamp="31-Mar-2017 18:25:58">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/com/sd/sort/v2/StringComparator.java" package="com.sd.sort.v2" timestamp="31-Mar-2017 18:26:53">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/com/sd/sort/v2/DateComparator.java" package="com.sd.sort.v2" timestamp="31-Mar-2017 18:27:58">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/com/sd/sort/v2/ReverseComparator.java" package="com.sd.sort.v2" timestamp="31-Mar-2017 18:28:46">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="j2_201411199/src/com/sd/sort/v2/TurtleComparator.java" package="com.sd.sort.v2" timestamp="31-Mar-2017 18:30:39">
+        <select from="0" to="0"/>
+        <scroll column="4" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="j2_201411199/lib/aplu5.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
