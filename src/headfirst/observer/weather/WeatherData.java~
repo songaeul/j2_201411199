@@ -1,0 +1,20 @@
+package headfirst.observer.weather;
+
+public class WeatherData implements Subject{
+  private ArrayList <Observer>observers;//왜 배열로 안하고 arrayList로 했을까?arraylist는 크기가 정해져있지않아서
+  public void registerObserver( Observer o);{
+    observers.add(o);
+  }
+  public void removeObserver(Observer o);{
+    int i = observers.indexOf(o);
+    if (i >= 0) {
+      observers.remove(i);
+  }
+    
+  }
+  public void notifyObservers();{
+    for (int i =0; i < observers.size();i++){//observer의 사이즈를 모르니까 
+    Observer ovserver = (Observer)observers.get(i);
+    observer.update(temperature, humidity, pressure);
+  }
+  }
