@@ -4,15 +4,15 @@ model/*.png
 *.class
 *.DS_Store
 
-#Mobile Tools for Java(12ME)
+# Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-#Package Files #
+# Package Files #
 *.jar
 *.war
 *.ear
 
-*.java~
-
-#virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
