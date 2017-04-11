@@ -22,10 +22,9 @@ public class StarbuzzCoffee{
                          +beverage3.cost());
     
     Beverage beverage4 = new CaramelMachiato();
-    beverage4 = new CaramelSyrup(beverage4);
+    beverage4 = new Soy(beverage4);
     beverage4 = new CaramelSyrup(beverage4);
     beverage4 = new VanileSyrup(beverage4);
-    beverage4 = new Whip(beverage4);
     System.out.println(beverage4.getDescription()+"  $"
                          +beverage4.cost());
    
