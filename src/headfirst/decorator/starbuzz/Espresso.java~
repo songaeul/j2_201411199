@@ -1,0 +1,11 @@
+package headfirst.decorator.starbuzz;
+
+public class Espresso extends Beverage{
+ String description = "unknown Beverage";
+  public String getDescription(){ 
+    return description;
+    }
+    public abstract double cost();
+}
+
+}
