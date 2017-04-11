@@ -1,6 +1,6 @@
 package headfirst.decorator.starbuzz;
 
-public class CaramelMachiato extends Beverage{
+public class CaramelMachiato extends Espresso{
   public CaramelMachiato(){
     description = "CaramelMachiato";
   }
