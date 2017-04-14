@@ -4,14 +4,14 @@ import java.awt.event.*;
 import javax.swing.*;
 
 public class AddressListener implements ActionListener{
-   public void actionPerformed(ActionEvent e)//ActionListener¿¡¼­ ¿Ô´Ù.
+   public void actionPerformed(ActionEvent e)//ActionListenerì—ì„œ ì™”ë‹¤.
    {
   
      JButton b =(JButton)e.getSource(); 
      String cmd =e.getActionCommand();
-     if(cmd.equals("°è»ê")){
-        System.out.println("°è»ê ¹öÆ°");
-            b.setText("°è»êÇß½À´Ï´Ù");
+     if(cmd.equals("ì¶”ê°€")){
+        System.out.println("ì¶”ê°€ ë²„íŠ¼");
+            b.setText("í–ˆìŠµë‹ˆë‹¤");
      }
    }
 }
