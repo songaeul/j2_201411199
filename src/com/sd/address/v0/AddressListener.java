@@ -11,7 +11,7 @@ public class AddressListener implements ActionListener{
      String cmd =e.getActionCommand();
      if(cmd.equals("추가")){
         System.out.println("추가 버튼");
-            b.setText("했습니다");
+            b.setText("추가했습니다");
      }
    }
 }
