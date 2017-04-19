@@ -1,0 +1,10 @@
+package headfirst.factory.pizza;
+
+public class SimplePizzaFactory{//pizza를 만들어주는 함수x -> factory 생성
+  public Pizza createPizza(String type){
+    if(type.equars("Cheese")){
+      return new CheesePizza();
+    }
+  } 
+
+}
